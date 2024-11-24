@@ -1,0 +1,47 @@
+pip install transformers
+pip install sentence-transformers
+pip install langdetect
+pip install torch
+pip install numpy
+pip install textblob
+
+
+all in
+pip install transformers sentence-transformers langdetect torch numpy textblob
+
+AutoDocstring
+Docstring Generator
+Doxygen Documentation Generator
+
+Sphinx dengan reStructuredText
+Fokus: Dokumentasi proyek Python dalam format Sphinx yang mendukung output HTML atau PDF.
+pip install sphinx
+sphinx-quickstart
+
+
+
+5. pdoc
+Fokus: Membuat dokumentasi otomatis berbasis docstring.
+
+Cara Instalasi:
+
+Instal pdoc:
+bash
+Salin kode
+pip install pdoc
+Jalankan perintah untuk membuat dokumentasi:
+bash
+Salin kode
+pdoc --html my_project
+Kelebihan:
+
+Menghasilkan dokumentasi berbasis HTML dengan tampilan modern.
+Tidak memerlukan konfigurasi rumit.
+
+Kesimpulan
+Untuk docstring Python, gunakan:
+AutoDocstring atau Docstring Generator.
+Untuk proyek skala besar, gunakan:
+Sphinx atau pdoc.
+Untuk multi-bahasa, gunakan:
+Doxygen Documentation Generator.

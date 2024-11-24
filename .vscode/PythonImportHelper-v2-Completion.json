@@ -1,0 +1,2839 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "Max",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Max",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Max",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "Max",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_delete",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_delete",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_delete",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "pre_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_save",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "post_delete",
+        "importPath": "django.db.models.signals",
+        "description": "django.db.models.signals",
+        "isExtraImport": true,
+        "detail": "django.db.models.signals",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "receiver",
+        "importPath": "django.dispatch",
+        "description": "django.dispatch",
+        "isExtraImport": true,
+        "detail": "django.dispatch",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "slugify",
+        "importPath": "django.utils.text",
+        "description": "django.utils.text",
+        "isExtraImport": true,
+        "detail": "django.utils.text",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "users.models",
+        "description": "users.models",
+        "isExtraImport": true,
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "importPath": "category.models",
+        "description": "category.models",
+        "isExtraImport": true,
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "viewsets",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "BaseCommand",
+        "importPath": "django.core.management.base",
+        "description": "django.core.management.base",
+        "isExtraImport": true,
+        "detail": "django.core.management.base",
+        "documentation": {}
+    },
+    {
+        "label": "ContentBlock",
+        "importPath": "contentblock.models",
+        "description": "contentblock.models",
+        "isExtraImport": true,
+        "detail": "contentblock.models",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_contentblock_paths",
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "isExtraImport": true,
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "contentblock.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "contentblock.validators",
+        "description": "contentblock.validators",
+        "detail": "contentblock.validators",
+        "documentation": {}
+    },
+    {
+        "label": "Page",
+        "importPath": "page.models",
+        "description": "page.models",
+        "isExtraImport": true,
+        "detail": "page.models",
+        "documentation": {}
+    },
+    {
+        "label": "Page",
+        "importPath": "page.models",
+        "description": "page.models",
+        "isExtraImport": true,
+        "detail": "page.models",
+        "documentation": {}
+    },
+    {
+        "label": "call_command",
+        "importPath": "django.core.management",
+        "description": "django.core.management",
+        "isExtraImport": true,
+        "detail": "django.core.management",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "action",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "AllowAny",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenRefreshView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairView",
+        "importPath": "rest_framework_simplejwt.views",
+        "description": "rest_framework_simplejwt.views",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.views",
+        "documentation": {}
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "photo.models",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "photo.models",
+        "description": "photo.models",
+        "detail": "photo.models",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "importPath": "album.models",
+        "description": "album.models",
+        "isExtraImport": true,
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "importPath": "album.models",
+        "description": "album.models",
+        "isExtraImport": true,
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_photo_paths",
+        "importPath": "photo.utils",
+        "description": "photo.utils",
+        "isExtraImport": true,
+        "detail": "photo.utils",
+        "documentation": {}
+    },
+    {
+        "label": "hash_filename",
+        "importPath": "photo.utils",
+        "description": "photo.utils",
+        "isExtraImport": true,
+        "detail": "photo.utils",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "MultiPartParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "FormParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "JsonResponse",
+        "importPath": "django.http",
+        "description": "django.http",
+        "isExtraImport": true,
+        "detail": "django.http",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairSerializer",
+        "importPath": "rest_framework_simplejwt.serializers",
+        "description": "rest_framework_simplejwt.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "make_password",
+        "importPath": "django.contrib.auth.hashers",
+        "description": "django.contrib.auth.hashers",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.hashers",
+        "documentation": {}
+    },
+    {
+        "label": "APIView",
+        "importPath": "rest_framework.views",
+        "description": "rest_framework.views",
+        "isExtraImport": true,
+        "detail": "rest_framework.views",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "album.migrations.0001_initial",
+        "description": "album.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('category', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Album',\n            fields=[",
+        "detail": "album.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "album.migrations.0002_album_is_active",
+        "description": "album.migrations.0002_album_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('album', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='album',\n            name='is_active',\n            field=models.BooleanField(default=True),\n        ),",
+        "detail": "album.migrations.0002_album_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "album.migrations.0003_album_cover_photo",
+        "description": "album.migrations.0003_album_cover_photo",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('album', '0002_album_is_active'),\n        ('photo', '0004_remove_photo_is_active'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='album',\n            name='cover_photo',\n            field=models.ForeignKey(blank=True, null=True, on_delete=django.db.models.deletion.SET_NULL, related_name='album_cover', to='photo.photo'),",
+        "detail": "album.migrations.0003_album_cover_photo",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumConfig",
+        "kind": 6,
+        "importPath": "album.apps",
+        "description": "album.apps",
+        "peekOfCode": "class AlbumConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'album'",
+        "detail": "album.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Album",
+        "kind": 6,
+        "importPath": "album.models",
+        "description": "album.models",
+        "peekOfCode": "class Album(models.Model):\n    \"\"\"\n    Model yang merepresentasikan Album dalam sistem.\n    Fields:\n        title (CharField): Judul album.\n        description (TextField): Deskripsi album, opsional.\n        is_active (BooleanField): Status aktif/inaktif album.\n        created_at (DateTimeField): Tanggal dan waktu pembuatan album.\n        category (ForeignKey): Kategori yang terkait dengan album.\n        created_by (ForeignKey): Pengguna yang membuat album.",
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_album_folder",
+        "kind": 2,
+        "importPath": "album.models",
+        "description": "album.models",
+        "peekOfCode": "def create_album_folder(sender, instance, created, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil setelah album disimpan.\n    Jika album baru dibuat, maka akan dibuat folder fisik untuk album tersebut.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Album): Instance album yang disimpan.\n        created (bool): True jika album baru dibuat.\n    \"\"\"\n    if created:",
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "rename_album_folder",
+        "kind": 2,
+        "importPath": "album.models",
+        "description": "album.models",
+        "peekOfCode": "def rename_album_folder(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil sebelum album disimpan.\n    Jika judul album berubah, maka folder fisik akan di-rename sesuai judul baru.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Album): Instance album yang akan disimpan.\n    \"\"\"\n    if instance.pk:\n        try:",
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "delete_album_folder",
+        "kind": 2,
+        "importPath": "album.models",
+        "description": "album.models",
+        "peekOfCode": "def delete_album_folder(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil setelah album dihapus.\n    Menghapus folder fisik beserta isinya terkait dengan album tersebut.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Album): Instance album yang dihapus.\n    \"\"\"\n    folder_path = instance.get_album_folder_path()\n    if os.path.exists(folder_path):",
+        "detail": "album.models",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumSerializer",
+        "kind": 6,
+        "importPath": "album.serializers",
+        "description": "album.serializers",
+        "peekOfCode": "class AlbumSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer untuk model Album.\n    Fields:\n        id (IntegerField): ID unik album.\n        title (CharField): Judul album.\n        description (TextField): Deskripsi album, opsional.\n        created_at (DateTimeField): Tanggal dan waktu pembuatan album.\n        category (PrimaryKeyRelatedField): Kategori yang terkait dengan album.\n        created_by (CharField): Username pengguna yang membuat album (read-only).",
+        "detail": "album.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "album.urls",
+        "description": "album.urls",
+        "peekOfCode": "urlpatterns = [\n    # Endpoint untuk mendapatkan daftar semua album atau membuat album baru\n    path('albums/', AlbumListCreateView.as_view(), name='album-list-create'),\n    # Endpoint untuk mendapatkan, memperbarui, atau menghapus album tertentu berdasarkan ID (pk)\n    path('albums/<int:pk>/', AlbumDetailView.as_view(), name='album-detail'),\n    # Endpoint untuk mendapatkan daftar semua album yang bersifat publik\n    path('albums/public/', PublicAlbumListView.as_view(), name='public-album-list'),\n    # Endpoint untuk mendapatkan daftar album berdasarkan kategori tertentu yang diidentifikasi oleh category_id\n    path('albums/category/<int:category_id>/', AlbumByCategoryView.as_view(), name='album-by-category'),\n]",
+        "detail": "album.urls",
+        "documentation": {}
+    },
+    {
+        "label": "PublicAlbumListView",
+        "kind": 6,
+        "importPath": "album.views",
+        "description": "album.views",
+        "peekOfCode": "class PublicAlbumListView(generics.ListAPIView):\n    \"\"\"\n    View untuk menampilkan daftar semua album yang aktif dan bersifat publik.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua album yang aktif dan diurutkan berdasarkan sequence_number.\n        serializer_class (Serializer): Serializer yang digunakan adalah AlbumSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = Album.objects.filter(is_active=True).order_by('sequence_number')\n    serializer_class = AlbumSerializer",
+        "detail": "album.views",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumListCreateView",
+        "kind": 6,
+        "importPath": "album.views",
+        "description": "album.views",
+        "peekOfCode": "class AlbumListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    View untuk menampilkan daftar semua album atau membuat album baru.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua album yang diurutkan berdasarkan sequence_number.\n        serializer_class (Serializer): Serializer yang digunakan adalah AlbumSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini hanya dapat diakses oleh pengguna yang terautentikasi (IsAuthenticated).\n    \"\"\"\n    queryset = Album.objects.all().order_by('sequence_number')  \n    serializer_class = AlbumSerializer",
+        "detail": "album.views",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumDetailView",
+        "kind": 6,
+        "importPath": "album.views",
+        "description": "album.views",
+        "peekOfCode": "class AlbumDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    View untuk mengambil, memperbarui, atau menghapus album tertentu.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua album.\n        serializer_class (Serializer): Serializer yang digunakan adalah AlbumSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini hanya dapat diakses oleh pengguna yang terautentikasi (IsAuthenticated).\n    \"\"\"\n    queryset = Album.objects.all()\n    serializer_class = AlbumSerializer",
+        "detail": "album.views",
+        "documentation": {}
+    },
+    {
+        "label": "AlbumByCategoryView",
+        "kind": 6,
+        "importPath": "album.views",
+        "description": "album.views",
+        "peekOfCode": "class AlbumByCategoryView(generics.ListAPIView): \n    \"\"\"\n    View untuk menampilkan daftar album berdasarkan kategori tertentu.\n    Attributes:\n        queryset (QuerySet): Kueri default untuk mengambil semua album yang aktif.\n        serializer_class (Serializer): Serializer yang digunakan adalah AlbumSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = Album.objects.filter(is_active=True)\n    serializer_class = AlbumSerializer",
+        "detail": "album.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "category.migrations.0001_initial",
+        "description": "category.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=100, unique=True)),",
+        "detail": "category.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryConfig",
+        "kind": 6,
+        "importPath": "category.apps",
+        "description": "category.apps",
+        "peekOfCode": "class CategoryConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'category'",
+        "detail": "category.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "category.models",
+        "description": "category.models",
+        "peekOfCode": "class Category(models.Model):\n    \"\"\"\n    Model yang merepresentasikan Kategori dalam sistem.\n    Fields:\n        name (CharField): Nama kategori yang unik.\n        description (TextField): Deskripsi kategori, opsional.\n        sequence_number (PositiveIntegerField): Nomor urut kategori untuk penataan.\n    \"\"\"\n    name = models.CharField(max_length=100, unique=True)\n    description = models.TextField(blank=True, null=True)",
+        "detail": "category.models",
+        "documentation": {}
+    },
+    {
+        "label": "CategorySerializer",
+        "kind": 6,
+        "importPath": "category.serializers",
+        "description": "category.serializers",
+        "peekOfCode": "class CategorySerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer untuk model Category.\n    Fields:\n        id (IntegerField): ID unik kategori (read-only).\n        name (CharField): Nama kategori yang unik.\n        description (TextField): Deskripsi kategori, opsional.\n        sequence_number (PositiveIntegerField): Nomor urut kategori untuk penataan (read-only).\n    \"\"\"\n    class Meta:",
+        "detail": "category.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "category.urls",
+        "description": "category.urls",
+        "peekOfCode": "urlpatterns = [\n    # Endpoint untuk mendapatkan daftar semua kategori atau membuat kategori baru\n    path('categories/', CategoryListCreateView.as_view(), name='category-list-create'),  \n    # Endpoint untuk mendapatkan, memperbarui, atau menghapus kategori tertentu berdasarkan ID (pk)\n    path('categories/<int:pk>/', CategoryDetailView.as_view(), name='category-detail'),\n    # Endpoint untuk mendapatkan daftar semua kategori yang bersifat publik\n    path('categories/public/', CategoryPublicListView.as_view(), name='category-public-list'),\n]",
+        "detail": "category.urls",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryPublicListView",
+        "kind": 6,
+        "importPath": "category.views",
+        "description": "category.views",
+        "peekOfCode": "class CategoryPublicListView(generics.ListAPIView):\n    \"\"\"\n    View untuk menampilkan daftar semua kategori yang bersifat publik.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua kategori.\n        serializer_class (Serializer): Serializer yang digunakan adalah CategorySerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer",
+        "detail": "category.views",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryListCreateView",
+        "kind": 6,
+        "importPath": "category.views",
+        "description": "category.views",
+        "peekOfCode": "class CategoryListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    View untuk menampilkan daftar semua kategori atau membuat kategori baru.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua kategori.\n        serializer_class (Serializer): Serializer yang digunakan adalah CategorySerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini hanya dapat diakses oleh pengguna yang terautentikasi (IsAuthenticated).\n    \"\"\"\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer",
+        "detail": "category.views",
+        "documentation": {}
+    },
+    {
+        "label": "CategoryDetailView",
+        "kind": 6,
+        "importPath": "category.views",
+        "description": "category.views",
+        "peekOfCode": "class CategoryDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    View untuk mengambil, memperbarui, atau menghapus kategori tertentu.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua kategori.\n        serializer_class (Serializer): Serializer yang digunakan adalah CategorySerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini hanya dapat diakses oleh pengguna yang terautentikasi (IsAuthenticated).\n    \"\"\"\n    queryset = Category.objects.all()\n    serializer_class = CategorySerializer",
+        "detail": "category.views",
+        "documentation": {}
+    },
+    {
+        "label": "Command",
+        "kind": 6,
+        "importPath": "contentblock.management.commands.fix_contentblock_paths",
+        "description": "contentblock.management.commands.fix_contentblock_paths",
+        "peekOfCode": "class Command(BaseCommand):\n    help = 'Fix content block image paths and verify file existence'\n    def handle(self, *args, **options):\n        content_blocks = ContentBlock.objects.all()\n        fixed_count = 0\n        missing_count = 0\n        self.stdout.write('Starting content block path verification...')\n        for block in content_blocks:\n            if block.image:\n                # Get expected path",
+        "detail": "contentblock.management.commands.fix_contentblock_paths",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contentblock.migrations.0001_initial",
+        "description": "contentblock.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('page', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='ContentBlock',\n            fields=[",
+        "detail": "contentblock.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contentblock.migrations.0002_remove_contentblock_video_contentblock_is_active",
+        "description": "contentblock.migrations.0002_remove_contentblock_video_contentblock_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('contentblock', '0001_initial'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='contentblock',\n            name='video',\n        ),\n        migrations.AddField(",
+        "detail": "contentblock.migrations.0002_remove_contentblock_video_contentblock_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contentblock.migrations.0003_alter_contentblock_is_active",
+        "description": "contentblock.migrations.0003_alter_contentblock_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('contentblock', '0002_remove_contentblock_video_contentblock_is_active'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='contentblock',\n            name='is_active',\n            field=models.BooleanField(default=True),\n        ),",
+        "detail": "contentblock.migrations.0003_alter_contentblock_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contentblock.migrations.0004_remove_contentblock_is_active",
+        "description": "contentblock.migrations.0004_remove_contentblock_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('contentblock', '0003_alter_contentblock_is_active'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='contentblock',\n            name='is_active',\n        ),\n    ]",
+        "detail": "contentblock.migrations.0004_remove_contentblock_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contentblock.migrations.0005_remove_contentblock_image_contentblockimage",
+        "description": "contentblock.migrations.0005_remove_contentblock_image_contentblockimage",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('contentblock', '0004_remove_contentblock_is_active'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='contentblock',\n            name='image',\n        ),\n        migrations.CreateModel(",
+        "detail": "contentblock.migrations.0005_remove_contentblock_image_contentblockimage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "contentblock.migrations.0006_contentblock_image_delete_contentblockimage",
+        "description": "contentblock.migrations.0006_contentblock_image_delete_contentblockimage",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('contentblock', '0005_remove_contentblock_image_contentblockimage'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='contentblock',\n            name='image',\n            field=models.ImageField(blank=True, null=True, upload_to='', validators=[contentblock.validators.validate_image_path]),\n        ),",
+        "detail": "contentblock.migrations.0006_contentblock_image_delete_contentblockimage",
+        "documentation": {}
+    },
+    {
+        "label": "ContentblockConfig",
+        "kind": 6,
+        "importPath": "contentblock.apps",
+        "description": "contentblock.apps",
+        "peekOfCode": "class ContentblockConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'contentblock'\ndef ready(self):\n        import contentblock.utils",
+        "detail": "contentblock.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ready",
+        "kind": 2,
+        "importPath": "contentblock.apps",
+        "description": "contentblock.apps",
+        "peekOfCode": "def ready(self):\n        import contentblock.utils",
+        "detail": "contentblock.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ContentBlock",
+        "kind": 6,
+        "importPath": "contentblock.models",
+        "description": "contentblock.models",
+        "peekOfCode": "class ContentBlock(models.Model):\n    \"\"\"\n    Model yang merepresentasikan Blok Konten dalam sistem.\n    Fields:\n        page (ForeignKey): Relasi ke model Page yang terkait dengan blok konten ini.\n        title (CharField): Judul blok konten.\n        image (ImageField): Gambar terkait dengan blok konten, opsional dengan validasi path gambar.\n        description (TextField): Deskripsi blok konten, opsional.\n        created_by (ForeignKey): Pengguna yang membuat blok konten.\n        updated_at (DateTimeField): Tanggal dan waktu terakhir kali blok konten diperbarui.",
+        "detail": "contentblock.models",
+        "documentation": {}
+    },
+    {
+        "label": "set_contentblock_sequence",
+        "kind": 2,
+        "importPath": "contentblock.models",
+        "description": "contentblock.models",
+        "peekOfCode": "def set_contentblock_sequence(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil sebelum ContentBlock disimpan.\n    Mengatur sequence_number secara otomatis untuk instance baru.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (ContentBlock): Instance ContentBlock yang akan disimpan.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:\n        None",
+        "detail": "contentblock.models",
+        "documentation": {}
+    },
+    {
+        "label": "reorder_contentblock_sequence",
+        "kind": 2,
+        "importPath": "contentblock.models",
+        "description": "contentblock.models",
+        "peekOfCode": "def reorder_contentblock_sequence(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil setelah ContentBlock dihapus.\n    Mengatur ulang sequence_number untuk semua ContentBlock dalam page yang sama.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (ContentBlock): Instance ContentBlock yang telah dihapus.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:\n        None",
+        "detail": "contentblock.models",
+        "documentation": {}
+    },
+    {
+        "label": "ContentBlockSerializer",
+        "kind": 6,
+        "importPath": "contentblock.serializers",
+        "description": "contentblock.serializers",
+        "peekOfCode": "class ContentBlockSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer untuk model ContentBlock.\n    Fields:\n        id (IntegerField): ID unik ContentBlock (read-only).\n        page (PrimaryKeyRelatedField): Relasi ke model Page yang terkait dengan ContentBlock.\n        title (CharField): Judul ContentBlock.\n        image (ImageField): Gambar terkait dengan ContentBlock, opsional.\n        description (TextField): Deskripsi ContentBlock, opsional.\n        created_by (CharField): Username pengguna yang membuat ContentBlock (read-only).",
+        "detail": "contentblock.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "verify_contentblock_paths",
+        "kind": 2,
+        "importPath": "contentblock.tasks",
+        "description": "contentblock.tasks",
+        "peekOfCode": "def verify_contentblock_paths():\n    \"\"\"\n    Fungsi untuk memverifikasi dan memperbaiki path pada ContentBlock.\n    Fungsi ini memanggil perintah manajemen Django 'fix_contentblock_paths' untuk memastikan\n    bahwa semua path gambar pada ContentBlock telah dikonfigurasi dengan benar.\n    Jika terjadi kesalahan selama eksekusi perintah, kesalahan tersebut akan dicatat\n    menggunakan logger.\n    Returns:\n        None\n    \"\"\"",
+        "detail": "contentblock.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "contentblock.tasks",
+        "description": "contentblock.tasks",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef verify_contentblock_paths():\n    \"\"\"\n    Fungsi untuk memverifikasi dan memperbaiki path pada ContentBlock.\n    Fungsi ini memanggil perintah manajemen Django 'fix_contentblock_paths' untuk memastikan\n    bahwa semua path gambar pada ContentBlock telah dikonfigurasi dengan benar.\n    Jika terjadi kesalahan selama eksekusi perintah, kesalahan tersebut akan dicatat\n    menggunakan logger.\n    Returns:\n        None",
+        "detail": "contentblock.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "contentblock.urls",
+        "description": "contentblock.urls",
+        "peekOfCode": "router = DefaultRouter()\n# Mendaftarkan ContentBlockViewSet ke router dengan basename 'contentblock'\nrouter.register(r'', ContentBlockViewSet, basename='contentblock')\nurlpatterns = [\n    # Endpoint untuk mendapatkan daftar semua ContentBlock yang bersifat publik\n    path('public/', PublicContentBlockListView.as_view(), name='public-contentblock-list'),\n    # Endpoint untuk mendapatkan daftar ContentBlock berdasarkan ID halaman (page_id)\n    path('page/<int:page_id>/', ContentBlockByPages.as_view(), name='contentblock-by-pages'),\n    # Endpoint untuk mendapatkan daftar ContentBlock berdasarkan slug halaman (page_slug)\n    path('page/slug/<str:page_slug>/', ContentBlockByPageSlug.as_view(), name='contentblock-by-page-slug'),",
+        "detail": "contentblock.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "contentblock.urls",
+        "description": "contentblock.urls",
+        "peekOfCode": "urlpatterns = [\n    # Endpoint untuk mendapatkan daftar semua ContentBlock yang bersifat publik\n    path('public/', PublicContentBlockListView.as_view(), name='public-contentblock-list'),\n    # Endpoint untuk mendapatkan daftar ContentBlock berdasarkan ID halaman (page_id)\n    path('page/<int:page_id>/', ContentBlockByPages.as_view(), name='contentblock-by-pages'),\n    # Endpoint untuk mendapatkan daftar ContentBlock berdasarkan slug halaman (page_slug)\n    path('page/slug/<str:page_slug>/', ContentBlockByPageSlug.as_view(), name='contentblock-by-page-slug'),\n    # Endpoint untuk mendapatkan detail ContentBlock berdasarkan ID\n    path('detail/<int:id>/', ContentBlockDetailView.as_view(), name='contentblock-detail'),\n    # Menyertakan semua URL yang didefinisikan oleh router",
+        "detail": "contentblock.urls",
+        "documentation": {}
+    },
+    {
+        "label": "create_contentblock_folders",
+        "kind": 2,
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "peekOfCode": "def create_contentblock_folders(page_slug):\n    \"\"\"\n    Membuat folder untuk ContentBlock berdasarkan slug dari halaman terkait.\n    Fungsi ini membuat direktori 'images' di dalam direktori halaman yang diidentifikasi oleh `page_slug`.\n    Jika direktori sudah ada, tidak ada tindakan yang diambil.\n    Args:\n        page_slug (str): Slug dari halaman yang terkait dengan ContentBlock.\n    Returns:\n        None\n    \"\"\"",
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "rename_contentblock_folders",
+        "kind": 2,
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "peekOfCode": "def rename_contentblock_folders(old_slug, new_slug):\n    \"\"\"\n    Mengganti nama folder ContentBlock saat slug halaman berubah.\n    Fungsi ini mengganti nama direktori 'images' dari `old_slug` ke `new_slug`.\n    Jika direktori lama tidak ada, tidak ada tindakan yang diambil.\n    Args:\n        old_slug (str): Slug lama dari halaman.\n        new_slug (str): Slug baru dari halaman.\n    Returns:\n        None",
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_random_filename",
+        "kind": 2,
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "peekOfCode": "def generate_random_filename(extension):\n    \"\"\"\n    Menghasilkan nama file acak dengan ekstensi yang diberikan.\n    Fungsi ini menggunakan UUID untuk memastikan nama file unik.\n    Args:\n        extension (str): Ekstensi file (misalnya, '.jpg', '.png').\n    Returns:\n        str: Nama file acak dengan ekstensi yang diberikan.\n    \"\"\"\n    return f\"{uuid.uuid4().hex}{extension}\"",
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "generate_unique_filename",
+        "kind": 2,
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "peekOfCode": "def generate_unique_filename(filepath):\n    \"\"\"\n    Menghasilkan nama file unik yang belum ada di sistem.\n    Fungsi ini memastikan bahwa nama file yang dihasilkan tidak bentrok dengan file yang sudah ada.\n    Args:\n        filepath (str): Path lengkap dari file.\n    Returns:\n        str: Path lengkap dengan nama file unik.\n    \"\"\"\n    base, extension = os.path.splitext(filepath)",
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_contentblock_paths",
+        "kind": 2,
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "peekOfCode": "def refresh_contentblock_paths(contentblock, new_slug):\n    \"\"\"\n    Memperbarui path gambar untuk ContentBlock setelah perubahan slug halaman.\n    Fungsi ini memindahkan file gambar ke direktori baru berdasarkan `new_slug` dan memperbarui field `image` pada ContentBlock.\n    Args:\n        contentblock (ContentBlock): Instance ContentBlock yang akan diperbarui.\n        new_slug (str): Slug baru dari halaman terkait.\n    Returns:\n        None\n    \"\"\"",
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "delete_contentblock_files",
+        "kind": 2,
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "peekOfCode": "def delete_contentblock_files(contentblock):\n    \"\"\"\n    Menghapus file gambar terkait dengan ContentBlock.\n    Fungsi ini menghapus file gambar dari sistem file jika ada.\n    Args:\n        contentblock (ContentBlock): Instance ContentBlock yang file gambarnya akan dihapus.\n    Returns:\n        None\n    \"\"\"\n    if contentblock.image and os.path.isfile(contentblock.image.path):",
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "contentblock.utils",
+        "description": "contentblock.utils",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef create_contentblock_folders(page_slug):\n    \"\"\"\n    Membuat folder untuk ContentBlock berdasarkan slug dari halaman terkait.\n    Fungsi ini membuat direktori 'images' di dalam direktori halaman yang diidentifikasi oleh `page_slug`.\n    Jika direktori sudah ada, tidak ada tindakan yang diambil.\n    Args:\n        page_slug (str): Slug dari halaman yang terkait dengan ContentBlock.\n    Returns:\n        None",
+        "detail": "contentblock.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_image_path",
+        "kind": 2,
+        "importPath": "contentblock.validators",
+        "description": "contentblock.validators",
+        "peekOfCode": "def validate_image_path(value):\n    \"\"\"\n    Validasi path gambar untuk memastikan mengikuti format yang ditentukan.\n    Fungsi ini memeriksa apakah path gambar berada dalam format yang diharapkan:\n    'pages/<page-slug>/images/<filename>'. Jika path tidak sesuai, akan\n    mengangkat ValidationError. Validasi ini hanya diterapkan untuk file yang\n    sudah ada (bukan file baru yang diupload).\n    Args:\n        value (str atau InMemoryUploadedFile): Path gambar yang akan divalidasi.\n    Raises:",
+        "detail": "contentblock.validators",
+        "documentation": {}
+    },
+    {
+        "label": "PublicContentBlockListView",
+        "kind": 6,
+        "importPath": "contentblock.views",
+        "description": "contentblock.views",
+        "peekOfCode": "class PublicContentBlockListView(generics.ListAPIView):\n    \"\"\"\n    View untuk menampilkan daftar semua ContentBlock yang bersifat publik.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua ContentBlock.\n        serializer_class (Serializer): Serializer yang digunakan adalah ContentBlockSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = ContentBlock.objects.all()\n    serializer_class = ContentBlockSerializer",
+        "detail": "contentblock.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentBlockViewSet",
+        "kind": 6,
+        "importPath": "contentblock.views",
+        "description": "contentblock.views",
+        "peekOfCode": "class ContentBlockViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet untuk operasi CRUD pada model ContentBlock.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua ContentBlock.\n        serializer_class (Serializer): Serializer yang digunakan adalah ContentBlockSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini hanya dapat diakses oleh pengguna yang terautentikasi (IsAuthenticated).\n    \"\"\"\n    queryset = ContentBlock.objects.all()\n    serializer_class = ContentBlockSerializer",
+        "detail": "contentblock.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentBlockByPages",
+        "kind": 6,
+        "importPath": "contentblock.views",
+        "description": "contentblock.views",
+        "peekOfCode": "class ContentBlockByPages(generics.ListAPIView):\n    \"\"\"\n    View untuk menampilkan daftar ContentBlock berdasarkan ID halaman tertentu.\n    Attributes:\n        queryset (QuerySet): Kueri default untuk mengambil semua ContentBlock.\n        serializer_class (Serializer): Serializer yang digunakan adalah ContentBlockSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = ContentBlock.objects.all()\n    serializer_class = ContentBlockSerializer",
+        "detail": "contentblock.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentBlockByPageSlug",
+        "kind": 6,
+        "importPath": "contentblock.views",
+        "description": "contentblock.views",
+        "peekOfCode": "class ContentBlockByPageSlug(generics.ListAPIView):\n    \"\"\"\n    View untuk menampilkan daftar ContentBlock berdasarkan slug halaman tertentu.\n    Attributes:\n        serializer_class (Serializer): Serializer yang digunakan adalah ContentBlockSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    serializer_class = ContentBlockSerializer\n    permission_classes = [permissions.AllowAny]\n    def get_queryset(self):",
+        "detail": "contentblock.views",
+        "documentation": {}
+    },
+    {
+        "label": "ContentBlockDetailView",
+        "kind": 6,
+        "importPath": "contentblock.views",
+        "description": "contentblock.views",
+        "peekOfCode": "class ContentBlockDetailView(generics.RetrieveAPIView):\n    \"\"\"\n    View untuk menampilkan detail ContentBlock berdasarkan ID.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua ContentBlock.\n        serializer_class (Serializer): Serializer yang digunakan adalah ContentBlockSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = ContentBlock.objects.all()\n    serializer_class = ContentBlockSerializer",
+        "detail": "contentblock.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "contentblock.views",
+        "description": "contentblock.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass PublicContentBlockListView(generics.ListAPIView):\n    \"\"\"\n    View untuk menampilkan daftar semua ContentBlock yang bersifat publik.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua ContentBlock.\n        serializer_class (Serializer): Serializer yang digunakan adalah ContentBlockSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = ContentBlock.objects.all()",
+        "detail": "contentblock.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "gallery.asgi",
+        "description": "gallery.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "gallery.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = os.getenv('DJANGO_SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.getenv('DJANGO_DEBUG')\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'testserver', '10.0.2.2', 'https://fchdjango.rwiconsulting.tech/', '103.28.12.226']\nINSTALLED_APPS = [\n    'django.contrib.admin',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "SECRET_KEY = os.getenv('DJANGO_SECRET_KEY')\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = os.getenv('DJANGO_DEBUG')\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'testserver', '10.0.2.2', 'https://fchdjango.rwiconsulting.tech/', '103.28.12.226']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "DEBUG = os.getenv('DJANGO_DEBUG')\nALLOWED_HOSTS = ['localhost', '127.0.0.1', 'testserver', '10.0.2.2', 'https://fchdjango.rwiconsulting.tech/', '103.28.12.226']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'testserver', '10.0.2.2', 'https://fchdjango.rwiconsulting.tech/', '103.28.12.226']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework_simplejwt.token_blacklist',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework_simplejwt.token_blacklist',\n    'rest_framework_simplejwt',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n    'DEFAULT_PERMISSION_CLASSES': (\n        'rest_framework.permissions.IsAuthenticated',\n    ),\n}\nfrom datetime import timedelta\nSIMPLE_JWT = {",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=60),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'AUTH_HEADER_TYPES': ('Bearer',),\n}\nLOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'formatters': {\n        'api': {",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGGING",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "LOGGING = {\n    'version': 1,\n    'disable_existing_loggers': False,\n    'formatters': {\n        'api': {\n            'format': '[{asctime}] {status_code} {method} {path} {message}',\n            'style': '{',\n            'datefmt': '%Y-%m-%d %H:%M:%S'\n        }\n    },",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LOGS_DIR",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "LOGS_DIR = os.path.join(BASE_DIR, 'logs')\nif not os.path.exists(LOGS_DIR):\n    os.makedirs(LOGS_DIR)\nAUTH_USER_MODEL = 'users.User'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_USER_MODEL",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "AUTH_USER_MODEL = 'users.User'\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n    'corsheaders.middleware.CorsMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "ROOT_URLCONF = 'gallery.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'gallery.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': os.getenv('DB_NAME'),\n        'USER': os.getenv('DB_USER'),\n        'PASSWORD': os.getenv('DB_PASSWORD'),\n        'HOST': os.getenv('DB_HOST'),",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.postgresql',\n        'NAME': os.getenv('DB_NAME'),\n        'USER': os.getenv('DB_USER'),\n        'PASSWORD': os.getenv('DB_PASSWORD'),\n        'HOST': os.getenv('DB_HOST'),\n        'PORT': int(os.getenv('DB_PORT', '5432')),\n    }\n}",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Security settings\n# SECURE_SSL_REDIRECT = True\n# SESSION_COOKIE_SECURE = True\n# CSRF_COOKIE_SECURE = True\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\n# Security settings\n# SECURE_SSL_REDIRECT = True\n# SESSION_COOKIE_SECURE = True\n# CSRF_COOKIE_SECURE = True\n# Password validation\n# https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CORS SETTING",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.1/howto/static-files/\nSTATIC_URL = 'static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CORS SETTING\n# CORS_ALLOWED_ORIGINS = [",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CORS SETTING\n# CORS_ALLOWED_ORIGINS = [\n#     \"http://localhost:3000\",  \n#     \"http://127.0.0.1:8000\",  \n#     # \"https://my-app.com\",",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\n#CORS SETTING\n# CORS_ALLOWED_ORIGINS = [\n#     \"http://localhost:3000\",  \n#     \"http://127.0.0.1:8000\",  \n#     # \"https://my-app.com\",\n# ]\nCORS_ALLOW_METHODS = [\n    \"DELETE\",\n    \"GET\",",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_METHODS",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "CORS_ALLOW_METHODS = [\n    \"DELETE\",\n    \"GET\",\n    \"OPTIONS\",\n    \"PATCH\",\n    \"POST\",\n    \"PUT\",\n]\nCORS_ALLOW_HEADERS = [\n    \"accept\",",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_HEADERS",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "CORS_ALLOW_HEADERS = [\n    \"accept\",\n    \"authorization\",\n    \"content-type\",\n    \"origin\",\n    \"user-agent\",\n    \"x-csrftoken\",\n    \"x-requested-with\",\n]\nCORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "gallery.settings",
+        "description": "gallery.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True",
+        "detail": "gallery.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "gallery.urls",
+        "description": "gallery.urls",
+        "peekOfCode": "urlpatterns = [\n    # Endpoint untuk panel admin Django\n    path('admin/', admin.site.urls),\n    # Endpoint untuk mendapatkan token JWT (access dan refresh tokens)\n    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),\n    # Endpoint untuk memperbarui token JWT menggunakan refresh token\n    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),\n    # Menyertakan URL dari aplikasi 'users' di bawah prefix 'api/'\n    path('api/', include('users.urls')),\n    # Menyertakan URL dari aplikasi 'category' di bawah prefix 'api/'",
+        "detail": "gallery.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "gallery.wsgi",
+        "description": "gallery.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "gallery.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "page.migrations.0001_initial",
+        "description": "page.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Page',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('title', models.CharField(max_length=100, unique=True)),",
+        "detail": "page.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "page.migrations.0002_page_is_active",
+        "description": "page.migrations.0002_page_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('page', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='page',\n            name='is_active',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "page.migrations.0002_page_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "PageConfig",
+        "kind": 6,
+        "importPath": "page.apps",
+        "description": "page.apps",
+        "peekOfCode": "class PageConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'page'",
+        "detail": "page.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Page",
+        "kind": 6,
+        "importPath": "page.models",
+        "description": "page.models",
+        "peekOfCode": "class Page(models.Model):\n    \"\"\"\n    Model yang merepresentasikan Halaman dalam sistem.\n    Fields:\n        title (CharField): Judul halaman yang unik.\n        slug (SlugField): Slug yang dihasilkan dari judul halaman, unik dan opsional.\n        content (TextField): Konten utama halaman.\n        is_active (BooleanField): Status aktif atau tidaknya halaman.\n        created_at (DateTimeField): Tanggal dan waktu pembuatan halaman.\n        updated_at (DateTimeField): Tanggal dan waktu terakhir kali halaman diperbarui.",
+        "detail": "page.models",
+        "documentation": {}
+    },
+    {
+        "label": "set_sequence_number",
+        "kind": 2,
+        "importPath": "page.models",
+        "description": "page.models",
+        "peekOfCode": "def set_sequence_number(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil sebelum Page disimpan.\n    Mengatur sequence_number secara otomatis untuk instance baru.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Page): Instance Page yang akan disimpan.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:\n        None",
+        "detail": "page.models",
+        "documentation": {}
+    },
+    {
+        "label": "reorder_sequence_numbers",
+        "kind": 2,
+        "importPath": "page.models",
+        "description": "page.models",
+        "peekOfCode": "def reorder_sequence_numbers(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil setelah Page dihapus.\n    Mengatur ulang sequence_number untuk semua Page dalam urutan yang benar.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Page): Instance Page yang telah dihapus.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:\n        None",
+        "detail": "page.models",
+        "documentation": {}
+    },
+    {
+        "label": "PageSerializer",
+        "kind": 6,
+        "importPath": "page.serializers",
+        "description": "page.serializers",
+        "peekOfCode": "class PageSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer untuk model Page.\n    Kelas ini digunakan untuk mengubah instance model Page menjadi representasi JSON\n    dan sebaliknya. Serializer ini mencakup semua field yang ada dalam model Page.\n    Fields:\n        id (IntegerField): ID unik dari Page (read-only).\n        title (CharField): Judul halaman.\n        slug (SlugField): Slug yang dihasilkan dari judul halaman.\n        content (TextField): Konten utama halaman.",
+        "detail": "page.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "page.urls",
+        "description": "page.urls",
+        "peekOfCode": "router = DefaultRouter()\n# Mendaftarkan PageViewSet ke router dengan basename 'pages'\nrouter.register(r'', PageViewSet, basename='pages')\n# Definisi pola URL untuk aplikasi 'page'\nurlpatterns = [\n    # Endpoint untuk mendapatkan daftar semua halaman yang bersifat publik\n    path('public/', PublicPageView.as_view(), name='public-pages'),\n    # Endpoint untuk mendapatkan detail halaman publik berdasarkan slug\n    path('public/<str:slug>/', PublicPageDetailView.as_view(), name='public-page-detail'),\n    # Menyertakan semua URL yang didefinisikan oleh router untuk PageViewSet",
+        "detail": "page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "page.urls",
+        "description": "page.urls",
+        "peekOfCode": "urlpatterns = [\n    # Endpoint untuk mendapatkan daftar semua halaman yang bersifat publik\n    path('public/', PublicPageView.as_view(), name='public-pages'),\n    # Endpoint untuk mendapatkan detail halaman publik berdasarkan slug\n    path('public/<str:slug>/', PublicPageDetailView.as_view(), name='public-page-detail'),\n    # Menyertakan semua URL yang didefinisikan oleh router untuk PageViewSet\n    path('', include(router.urls)),\n]",
+        "detail": "page.urls",
+        "documentation": {}
+    },
+    {
+        "label": "create_page_folder",
+        "kind": 2,
+        "importPath": "page.utils",
+        "description": "page.utils",
+        "peekOfCode": "def create_page_folder(slug):\n    \"\"\"\n    Membuat folder untuk halaman berdasarkan slug yang diberikan.\n    Fungsi ini membuat direktori untuk halaman di dalam direktori 'pages' pada MEDIA_ROOT.\n    Jika direktori sudah ada, tidak ada tindakan yang diambil.\n    Args:\n        slug (str): Slug dari halaman yang akan dibuat foldernya.\n    Returns:\n        str: Path lengkap dari folder yang dibuat.\n    \"\"\"",
+        "detail": "page.utils",
+        "documentation": {}
+    },
+    {
+        "label": "rename_page_folder",
+        "kind": 2,
+        "importPath": "page.utils",
+        "description": "page.utils",
+        "peekOfCode": "def rename_page_folder(old_slug, new_slug):\n    \"\"\"\n    Mengganti nama folder halaman saat slug halaman berubah.\n    Fungsi ini mengganti nama direktori halaman dari `old_slug` ke `new_slug`.\n    Jika direktori lama tidak ada, tidak ada tindakan yang diambil.\n    Args:\n        old_slug (str): Slug lama dari halaman.\n        new_slug (str): Slug baru dari halaman.\n    Returns:\n        None",
+        "detail": "page.utils",
+        "documentation": {}
+    },
+    {
+        "label": "delete_page_folder",
+        "kind": 2,
+        "importPath": "page.utils",
+        "description": "page.utils",
+        "peekOfCode": "def delete_page_folder(slug):\n    \"\"\"\n    Menghapus folder halaman beserta seluruh isinya berdasarkan slug yang diberikan.\n    Fungsi ini menghapus direktori halaman dari MEDIA_ROOT jika direktori tersebut ada.\n    Menggunakan `shutil.rmtree` untuk menghapus folder dan semua isinya secara rekursif.\n    Args:\n        slug (str): Slug dari halaman yang akan dihapus foldernya.\n    Returns:\n        None\n    \"\"\"",
+        "detail": "page.utils",
+        "documentation": {}
+    },
+    {
+        "label": "PublicPageView",
+        "kind": 6,
+        "importPath": "page.views",
+        "description": "page.views",
+        "peekOfCode": "class PublicPageView(generics.ListAPIView):\n    \"\"\"\n    View untuk menampilkan daftar semua halaman yang bersifat publik.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua Page yang aktif.\n        serializer_class (Serializer): Serializer yang digunakan adalah PageSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n    \"\"\"\n    queryset = Page.objects.filter(is_active=True)\n    serializer_class = PageSerializer",
+        "detail": "page.views",
+        "documentation": {}
+    },
+    {
+        "label": "PageViewSet",
+        "kind": 6,
+        "importPath": "page.views",
+        "description": "page.views",
+        "peekOfCode": "class PageViewSet(viewsets.ModelViewSet):\n    \"\"\"\n    ViewSet untuk operasi CRUD pada model Page.\n    Attributes:\n        queryset (QuerySet): Kueri untuk mengambil semua Page.\n        serializer_class (Serializer): Serializer yang digunakan adalah PageSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini hanya dapat diakses oleh pengguna yang terautentikasi (IsAuthenticated).\n    \"\"\"\n    queryset = Page.objects.all()\n    serializer_class = PageSerializer",
+        "detail": "page.views",
+        "documentation": {}
+    },
+    {
+        "label": "PublicPageDetailView",
+        "kind": 6,
+        "importPath": "page.views",
+        "description": "page.views",
+        "peekOfCode": "class PublicPageDetailView(generics.RetrieveAPIView):\n    \"\"\"\n    View untuk menampilkan detail halaman publik berdasarkan slug.\n    Attributes:\n        serializer_class (Serializer): Serializer yang digunakan adalah PageSerializer.\n        permission_classes (list): Menentukan bahwa endpoint ini dapat diakses oleh siapa saja (AllowAny).\n        lookup_field (str): Field yang digunakan untuk mencari objek, yaitu 'slug'.\n    \"\"\"\n    serializer_class = PageSerializer\n    permission_classes = [permissions.AllowAny]",
+        "detail": "page.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "photo.migrations.0001_initial",
+        "description": "photo.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('album', '0001_initial'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Photo',\n            fields=[",
+        "detail": "photo.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "photo.migrations.0002_alter_photo_options",
+        "description": "photo.migrations.0002_alter_photo_options",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('photo', '0001_initial'),\n    ]\n    operations = [\n        migrations.AlterModelOptions(\n            name='photo',\n            options={'ordering': ['sequence_number']},\n        ),\n    ]",
+        "detail": "photo.migrations.0002_alter_photo_options",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "photo.migrations.0003_photo_is_active",
+        "description": "photo.migrations.0003_photo_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('photo', '0002_alter_photo_options'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='photo',\n            name='is_active',\n            field=models.BooleanField(default=True),\n        ),",
+        "detail": "photo.migrations.0003_photo_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "photo.migrations.0004_remove_photo_is_active",
+        "description": "photo.migrations.0004_remove_photo_is_active",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('photo', '0003_photo_is_active'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='photo',\n            name='is_active',\n        ),\n    ]",
+        "detail": "photo.migrations.0004_remove_photo_is_active",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "photo.migrations.0005_photo_likes",
+        "description": "photo.migrations.0005_photo_likes",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('photo', '0004_remove_photo_is_active'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='photo',\n            name='likes',\n            field=models.PositiveIntegerField(default=0),\n        ),",
+        "detail": "photo.migrations.0005_photo_likes",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoConfig",
+        "kind": 6,
+        "importPath": "photo.apps",
+        "description": "photo.apps",
+        "peekOfCode": "class PhotoConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'photo'\ndef ready(self):\n        import photo.utils",
+        "detail": "photo.apps",
+        "documentation": {}
+    },
+    {
+        "label": "ready",
+        "kind": 2,
+        "importPath": "photo.apps",
+        "description": "photo.apps",
+        "peekOfCode": "def ready(self):\n        import photo.utils",
+        "detail": "photo.apps",
+        "documentation": {}
+    },
+    {
+        "label": "Photo",
+        "kind": 6,
+        "importPath": "photo.models",
+        "description": "photo.models",
+        "peekOfCode": "class Photo(models.Model):\n    \"\"\"\n    Model yang merepresentasikan Foto dalam album.\n    Fields:\n        title (CharField): Judul foto.\n        description (TextField): Deskripsi foto.\n        photo (ImageField): File gambar foto yang diupload.\n        album (ForeignKey): Relasi ke model Album.\n        uploaded_at (DateTimeField): Tanggal dan waktu foto diupload.\n        uploaded_by (ForeignKey): Relasi ke model User yang mengupload foto.",
+        "detail": "photo.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_album_upload_path",
+        "kind": 2,
+        "importPath": "photo.models",
+        "description": "photo.models",
+        "peekOfCode": "def get_album_upload_path(instance, filename):\n    from photo.utils import hash_filename\n    album_title = slugify(instance.album.title)  # Slugify nama album\n    # Hash the filename before saving\n    hashed_filename = hash_filename(filename)\n    # Menyimpan gambar di dalam folder album yang sesuai\n    return os.path.join('albums', album_title, hashed_filename)\nclass Photo(models.Model):\n    \"\"\"\n    Model yang merepresentasikan Foto dalam album.",
+        "detail": "photo.models",
+        "documentation": {}
+    },
+    {
+        "label": "rename_photo_folder",
+        "kind": 2,
+        "importPath": "photo.models",
+        "description": "photo.models",
+        "peekOfCode": "def rename_photo_folder(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil sebelum Album disimpan.\n    Mengganti nama folder foto dan memperbarui path foto jika nama album berubah.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Album): Instance Album yang akan disimpan.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:\n        None",
+        "detail": "photo.models",
+        "documentation": {}
+    },
+    {
+        "label": "delete_album_folder",
+        "kind": 2,
+        "importPath": "photo.models",
+        "description": "photo.models",
+        "peekOfCode": "def delete_album_folder(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil setelah Album dihapus.\n    Menghapus folder album beserta seluruh isinya.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Album): Instance Album yang telah dihapus.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:\n        None",
+        "detail": "photo.models",
+        "documentation": {}
+    },
+    {
+        "label": "update_photo_paths_on_album_save",
+        "kind": 2,
+        "importPath": "photo.models",
+        "description": "photo.models",
+        "peekOfCode": "def update_photo_paths_on_album_save(sender, instance, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil setelah Album disimpan.\n    Memanggil fungsi refresh_photo_paths untuk memperbarui path foto.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Album): Instance Album yang telah disimpan.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:\n        None",
+        "detail": "photo.models",
+        "documentation": {}
+    },
+    {
+        "label": "set_album_cover",
+        "kind": 2,
+        "importPath": "photo.models",
+        "description": "photo.models",
+        "peekOfCode": "def set_album_cover(sender, instance, created, **kwargs):\n    \"\"\"\n    Signal handler yang dipanggil setelah Photo disimpan.\n    Mengatur cover_photo pada album jika foto yang diupload adalah yang pertama.\n    Args:\n        sender (Model): Model yang mengirim signal.\n        instance (Photo): Instance Photo yang telah disimpan.\n        created (bool): Indikator apakah Photo baru dibuat.\n        **kwargs: Argumen kata kunci tambahan.\n    Returns:",
+        "detail": "photo.models",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoSerializer",
+        "kind": 6,
+        "importPath": "photo.serializers",
+        "description": "photo.serializers",
+        "peekOfCode": "class PhotoSerializer(serializers.ModelSerializer):\n    # Menampilkan username pengguna yang mengupload foto sebagai read-only\n    uploaded_by = serializers.CharField(source='uploaded_by.username', read_only=True)\n    class Meta:\n        model = Photo\n        fields = ['id', 'title', 'description', 'photo', 'album', 'uploaded_at', 'uploaded_by', 'sequence_number']\n        read_only_fields = ['id', 'uploaded_at', 'uploaded_by', 'sequence_number']\n    def get_photo_url(self, obj):\n        # Dapatkan folder album saat ini berdasarkan slug nama album\n        album_folder = slugify(obj.album.title)",
+        "detail": "photo.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "MultiplePhotoSerializer",
+        "kind": 6,
+        "importPath": "photo.serializers",
+        "description": "photo.serializers",
+        "peekOfCode": "class MultiplePhotoSerializer(serializers.ListSerializer):\n    # Mendefinisikan child serializer sebagai PhotoSerializer\n    child = PhotoSerializer()\n    def create(self, validated_data):\n        # Mendapatkan pengguna dari konteks permintaan\n        request = self.context.get('request')\n        # Membuat instance Photo untuk setiap data yang divalidasi\n        photos = [Photo(**item, uploaded_by=request.user) for item in validated_data]\n        # Menyimpan semua foto secara massal ke database\n        return Photo.objects.bulk_create(photos)",
+        "detail": "photo.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "photo.urls",
+        "description": "photo.urls",
+        "peekOfCode": "urlpatterns = [\n    # Endpoint untuk menampilkan daftar semua foto atau membuat foto baru\n    path('photos/', PhotoListCreateView.as_view(), name='photo-list-create'),\n    # Endpoint untuk mengambil, memperbarui, atau menghapus foto tertentu berdasarkan primary key (pk)\n    path('photos/<int:pk>/', PhotoDetailView.as_view(), name='photo-detail'),\n    # Endpoint untuk mengambil daftar foto berdasarkan ID album tertentu\n    path('photos/album/<int:album_id>/', PhotoByAlbumView.as_view(), name='photos-by-album'),\n    # Endpoint untuk menampilkan daftar foto yang bersifat publik saja\n    path('photos/public/', PhotoListPublic.as_view(), name='photo-list-public'),\n    # Endpoint untuk memberikan \"like\" pada foto tertentu berdasarkan ID foto",
+        "detail": "photo.urls",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_photo_paths",
+        "kind": 2,
+        "importPath": "photo.utils",
+        "description": "photo.utils",
+        "peekOfCode": "def refresh_photo_paths():\n    \"\"\"\n    Memperbarui path foto berdasarkan struktur album.\n    Mengambil semua objek foto dari database dan memastikan bahwa setiap file foto\n    dipindahkan ke folder yang sesuai berdasarkan nama album. Jika path file foto\n    berubah, path baru tersebut juga disimpan ke dalam database.\n    Proses:\n    1. Ambil semua foto dari model `Photo`.\n    2. Tentukan path lama dan path baru berdasarkan struktur album.\n    3. Jika file ada di lokasi lama, pindahkan ke lokasi baru yang telah ditentukan.",
+        "detail": "photo.utils",
+        "documentation": {}
+    },
+    {
+        "label": "hash_filename",
+        "kind": 2,
+        "importPath": "photo.utils",
+        "description": "photo.utils",
+        "peekOfCode": "def hash_filename(filename):\n    \"\"\"\n    Membuat nama file unik menggunakan hash.\n    Menghasilkan nama file yang di-hash berdasarkan timestamp saat ini, \n    memastikan nama file yang dihasilkan unik. Ekstensi asli file tetap dipertahankan.\n    Proses:\n    1. Ekstraksi nama dan ekstensi file.\n    2. Membuat hash MD5 berdasarkan timestamp saat ini.\n    3. Menggabungkan hash dengan ekstensi asli untuk menghasilkan nama file baru.\n    Parameter:",
+        "detail": "photo.utils",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoListPublic",
+        "kind": 6,
+        "importPath": "photo.views",
+        "description": "photo.views",
+        "peekOfCode": "class PhotoListPublic(generics.ListCreateAPIView): \n    \"\"\"\n    API untuk menampilkan daftar foto yang dapat diakses publik dan membuat foto baru.\n    Menggunakan permission \"AllowAny\" sehingga bisa diakses tanpa autentikasi.\n    \"\"\"\n    queryset = Photo.objects.all().order_by('sequence_number')\n    serializer_class = PhotoSerializer\n    permission_classes = [permissions.AllowAny]\n    def list(self, request, *args, **kwargs):\n        \"\"\"",
+        "detail": "photo.views",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoListCreateView",
+        "kind": 6,
+        "importPath": "photo.views",
+        "description": "photo.views",
+        "peekOfCode": "class PhotoListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    API untuk membuat dan menampilkan daftar semua foto dengan otorisasi pengguna.\n    \"\"\"\n    parser_classes = [MultiPartParser, FormParser]  \n    queryset = Photo.objects.all().order_by('sequence_number')\n    serializer_class = PhotoSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def post(self, request, *args, **kwargs):\n        \"\"\"",
+        "detail": "photo.views",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoDetailView",
+        "kind": 6,
+        "importPath": "photo.views",
+        "description": "photo.views",
+        "peekOfCode": "class PhotoDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    API untuk mengambil, memperbarui, atau menghapus foto tertentu.\n    Memerlukan autentikasi pengguna.\n    \"\"\"\n    queryset = Photo.objects.all()\n    serializer_class = PhotoSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def update(self, request, *args, **kwargs):\n        \"\"\"",
+        "detail": "photo.views",
+        "documentation": {}
+    },
+    {
+        "label": "PhotoByAlbumView",
+        "kind": 6,
+        "importPath": "photo.views",
+        "description": "photo.views",
+        "peekOfCode": "class PhotoByAlbumView(generics.ListAPIView):\n    \"\"\"\n    API untuk menampilkan foto dalam album tertentu.\n    Memungkinkan akses tanpa autentikasi.\n    \"\"\"\n    queryset = Photo.objects.all()\n    serializer_class = PhotoSerializer\n    permission_classes = [permissions.AllowAny]\n    def get_queryset(self):\n        \"\"\"",
+        "detail": "photo.views",
+        "documentation": {}
+    },
+    {
+        "label": "like_photo",
+        "kind": 2,
+        "importPath": "photo.views",
+        "description": "photo.views",
+        "peekOfCode": "def like_photo(request, photo_id):\n    \"\"\"\n    Fungsi untuk memberi \"like\" pada foto dengan ID tertentu.\n    Mengecek apakah cookie \"like\" sudah ada untuk foto ini, dan jika belum, \n    menambah jumlah \"like\" foto dalam database menggunakan transaksi atomik untuk mencegah \n    inkonsistensi data. Cookie akan diset agar pengguna hanya bisa menyukai satu kali.\n    Parameter:\n    - `request`: Objek HTTP request.\n    - `photo_id`: ID foto yang akan diberi \"like\".\n    Mengembalikan:",
+        "detail": "photo.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "photo.views",
+        "description": "photo.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n@csrf_exempt\ndef like_photo(request, photo_id):\n    \"\"\"\n    Fungsi untuk memberi \"like\" pada foto dengan ID tertentu.\n    Mengecek apakah cookie \"like\" sudah ada untuk foto ini, dan jika belum, \n    menambah jumlah \"like\" foto dalam database menggunakan transaksi atomik untuk mencegah \n    inkonsistensi data. Cookie akan diset agar pengguna hanya bisa menyukai satu kali.\n    Parameter:\n    - `request`: Objek HTTP request.",
+        "detail": "photo.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "users.migrations.0001_initial",
+        "description": "users.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "users.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "UsersConfig",
+        "kind": 6,
+        "importPath": "users.apps",
+        "description": "users.apps",
+        "peekOfCode": "class UsersConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'users'",
+        "detail": "users.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserManager",
+        "kind": 6,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "class UserManager(BaseUserManager):\n    \"\"\"\n    Manager khusus untuk model User yang menyediakan metode pembuatan user reguler dan superuser.\n    Metode:\n    - `create_user`: Membuat user baru dengan `username`, `password`, dan `role` (default: 'petugas').\n    - `create_superuser`: Membuat superuser dengan `username` dan `password`, dan menambahkan atribut\n      tambahan `is_staff` dan `is_superuser` untuk otorisasi admin.\n    \"\"\"\n    def create_user(self, username, password=None, role='petugas', **extra_fields):\n        \"\"\"",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "users.models",
+        "description": "users.models",
+        "peekOfCode": "class User(AbstractBaseUser, PermissionsMixin):\n    \"\"\"\n    Model kustom untuk User yang mendukung sistem autentikasi berbasis username.\n    Atribut:\n    - `username`: Nama unik yang digunakan untuk login.\n    - `password`: Kata sandi user yang disimpan dalam format hash.\n    - `role`: Peran user dalam aplikasi, baik 'admin' atau 'petugas'.\n    - `is_active`: Status aktif user, default `True`.\n    - `is_staff`: Menunjukkan apakah user memiliki akses ke situs admin, default `False`.\n    - `is_superuser`: Menunjukkan apakah user adalah superuser, default `False`.",
+        "detail": "users.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserSerializer",
+        "kind": 6,
+        "importPath": "users.serializers",
+        "description": "users.serializers",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer untuk model User, digunakan untuk serialisasi data user dalam API.\n    Fields:\n    - `id`: ID unik user.\n    - `username`: Nama pengguna.\n    - `password`: Kata sandi, diatur sebagai `write_only`.\n    - `role`: Peran user (misalnya, admin atau petugas).\n    Metode:\n    - `create`: Membuat user baru dengan hashing password.",
+        "detail": "users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomTokenObtainPairSerializer",
+        "kind": 6,
+        "importPath": "users.serializers",
+        "description": "users.serializers",
+        "peekOfCode": "class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):\n    \"\"\"\n    Serializer kustom untuk menghasilkan token JWT dengan informasi tambahan.\n    Menambahkan field `role` ke dalam token payload untuk mencantumkan peran user.\n    Metode:\n    - `get_token`: Menambahkan role user ke token.\n    - `validate`: Memvalidasi data user dan menambahkan role ke respons.\n    \"\"\"\n    @classmethod\n    def get_token(cls, user):",
+        "detail": "users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUserSerializer",
+        "kind": 6,
+        "importPath": "users.serializers",
+        "description": "users.serializers",
+        "peekOfCode": "class RegisterUserSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer untuk registrasi user baru, mirip dengan UserSerializer tetapi menambahkan\n    fitur pendaftaran dan pengaktifan user.\n    Fields:\n    - `id`: ID unik user.\n    - `username`: Nama pengguna.\n    - `password`: Kata sandi, diatur sebagai `write_only`.\n    - `role`: Peran user (misalnya, admin atau petugas).\n    Metode:",
+        "detail": "users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "users.serializers",
+        "description": "users.serializers",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass UserSerializer(serializers.ModelSerializer):\n    \"\"\"\n    Serializer untuk model User, digunakan untuk serialisasi data user dalam API.\n    Fields:\n    - `id`: ID unik user.\n    - `username`: Nama pengguna.\n    - `password`: Kata sandi, diatur sebagai `write_only`.\n    - `role`: Peran user (misalnya, admin atau petugas).\n    Metode:",
+        "detail": "users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "users.urls",
+        "description": "users.urls",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Daftar URL untuk aplikasi pengguna\nurlpatterns = [\n    # Endpoint untuk daftar dan pembuatan user\n    path('users/', UserListCreateView.as_view(), name='user-list-create'),\n    # Endpoint untuk menampilkan detail, memperbarui, atau menghapus user berdasarkan primary key (pk)\n    path('users/<int:pk>/', UserDetailView.as_view(), name='user-detail'),\n    # Endpoint untuk login dan mendapatkan token autentikasi\n    path('login/', CustomTokenObtainPairView.as_view(), name='token_obtain_pair'),\n    # Endpoint untuk registrasi user baru",
+        "detail": "users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "users.urls",
+        "description": "users.urls",
+        "peekOfCode": "urlpatterns = [\n    # Endpoint untuk daftar dan pembuatan user\n    path('users/', UserListCreateView.as_view(), name='user-list-create'),\n    # Endpoint untuk menampilkan detail, memperbarui, atau menghapus user berdasarkan primary key (pk)\n    path('users/<int:pk>/', UserDetailView.as_view(), name='user-detail'),\n    # Endpoint untuk login dan mendapatkan token autentikasi\n    path('login/', CustomTokenObtainPairView.as_view(), name='token_obtain_pair'),\n    # Endpoint untuk registrasi user baru\n    path('register/', RegisterUserView.as_view(), name='register-user'),\n    # Endpoint untuk logout dan mencabut token",
+        "detail": "users.urls",
+        "documentation": {}
+    },
+    {
+        "label": "UserListCreateView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class UserListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    View untuk menampilkan daftar user dan membuat user baru.\n    Hanya user yang diautentikasi atau publik yang diizinkan untuk melihat daftar user,\n    tetapi hanya user yang terautentikasi yang dapat membuat user baru.\n    \"\"\"\n    queryset = User.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]\n    def list(self, request, *args, **kwargs):",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserDetailView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class UserDetailView(generics.RetrieveUpdateDestroyAPIView):\n    \"\"\"\n    View untuk mengambil, memperbarui, atau menghapus user tertentu berdasarkan ID.\n    Hanya user yang diautentikasi yang memiliki akses.\n    \"\"\"\n    queryset = User.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticated]\n    def update(self, request, *args, **kwargs):\n        \"\"\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomTokenObtainPairView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class CustomTokenObtainPairView(TokenObtainPairView):\n    \"\"\"\n    View untuk mengelola login dan menghasilkan token JWT dengan role user.\n    Menambahkan logging untuk memantau upaya login dan hasilnya.\n    \"\"\"\n    serializer_class = CustomTokenObtainPairSerializer\n    def post(self, request, *args, **kwargs):\n        \"\"\"\n        Menangani request login dan menghasilkan respons token dengan logging.\n        \"\"\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUserView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class RegisterUserView(APIView):\n    \"\"\"\n    View untuk registrasi user baru. Hanya admin yang diizinkan untuk mendaftarkan user baru.\n    \"\"\"\n    permission_classes = [IsAuthenticated]  \n    def post(self, request):\n        \"\"\"\n        Menangani request registrasi user baru.\n        Hanya dapat diakses oleh user dengan role 'admin'.\n        \"\"\"",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "LogoutView",
+        "kind": 6,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "class LogoutView(APIView):\n    \"\"\"\n    View untuk logout user dengan mencabut token refresh.\n    Hanya user yang terautentikasi yang diizinkan untuk logout.\n    \"\"\"\n    permission_classes = (IsAuthenticated,)\n    def post(self, request):\n        \"\"\"\n        Menghapus token refresh yang dimiliki user sehingga user dikeluarkan.\n        Menangani error jika token tidak valid atau tidak ada.",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "users.views",
+        "description": "users.views",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass UserListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    View untuk menampilkan daftar user dan membuat user baru.\n    Hanya user yang diautentikasi atau publik yang diizinkan untuk melihat daftar user,\n    tetapi hanya user yang terautentikasi yang dapat membuat user baru.\n    \"\"\"\n    queryset = User.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticatedOrReadOnly]",
+        "detail": "users.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'gallery.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]

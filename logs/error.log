@@ -1,0 +1,168 @@
+ERROR 2024-11-06 17:39:48,965 log Internal Server Error: /api/contentblocks/
+Traceback (most recent call last):
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\views.py", line 56, in list
+    refresh_contentblock_paths(contentblock, slugify(contentblock.page.title))
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\utils.py", line 55, in refresh_contentblock_paths
+    contentblock.save(update_fields=['image'])
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\models.py", line 27, in save
+    if self.image and hasattr(self.image, 'file'):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\db\models\fields\files.py", line 51, in _get_file
+    self._file = self.storage.open(self.name, "rb")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\base.py", line 22, in open
+    return self._open(name, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\filesystem.py", line 81, in _open
+    return File(open(self.path(name), mode))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\lenovo\\Documents\\ujikom_gallery\\backend\\gallery\\media\\pages\\newadd233\\images\\aad2311e70aaa43564699e8ba4ec9531.jpg'
+ERROR 2024-11-06 17:39:48,978 basehttp "GET /api/contentblocks/ HTTP/1.1" 500 125833
+ERROR 2024-11-06 17:39:49,230 log Internal Server Error: /api/contentblocks/
+Traceback (most recent call last):
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\views.py", line 56, in list
+    refresh_contentblock_paths(contentblock, slugify(contentblock.page.title))
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\utils.py", line 55, in refresh_contentblock_paths
+    contentblock.save(update_fields=['image'])
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\models.py", line 27, in save
+    if self.image and hasattr(self.image, 'file'):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\db\models\fields\files.py", line 51, in _get_file
+    self._file = self.storage.open(self.name, "rb")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\base.py", line 22, in open
+    return self._open(name, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\filesystem.py", line 81, in _open
+    return File(open(self.path(name), mode))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\lenovo\\Documents\\ujikom_gallery\\backend\\gallery\\media\\pages\\edited-21\\images\\e72a69761f71ac5a11204cb661b79908.jpg'
+ERROR 2024-11-06 17:39:49,234 basehttp "GET /api/contentblocks/ HTTP/1.1" 500 125830
+ERROR 2024-11-06 17:40:11,282 log Internal Server Error: /api/contentblocks/
+Traceback (most recent call last):
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\views.py", line 56, in list
+    refresh_contentblock_paths(contentblock, slugify(contentblock.page.title))
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\utils.py", line 55, in refresh_contentblock_paths
+    contentblock.save(update_fields=['image'])
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\models.py", line 27, in save
+    if self.image and hasattr(self.image, 'file'):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\db\models\fields\files.py", line 51, in _get_file
+    self._file = self.storage.open(self.name, "rb")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\base.py", line 22, in open
+    return self._open(name, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\filesystem.py", line 81, in _open
+    return File(open(self.path(name), mode))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\lenovo\\Documents\\ujikom_gallery\\backend\\gallery\\media\\pages\\edited-21\\images\\e72a69761f71ac5a11204cb661b79908.jpg'
+ERROR 2024-11-06 17:40:11,286 basehttp "GET /api/contentblocks/ HTTP/1.1" 500 125830
+ERROR 2024-11-06 17:40:31,908 log Internal Server Error: /api/contentblocks/
+Traceback (most recent call last):
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\viewsets.py", line 124, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\views.py", line 56, in list
+    refresh_contentblock_paths(contentblock, slugify(contentblock.page.title))
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\utils.py", line 55, in refresh_contentblock_paths
+    contentblock.save(update_fields=['image'])
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\gallery\contentblock\models.py", line 27, in save
+    if self.image and hasattr(self.image, 'file'):
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\db\models\fields\files.py", line 51, in _get_file
+    self._file = self.storage.open(self.name, "rb")
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\base.py", line 22, in open
+    return self._open(name, mode)
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\Documents\ujikom_gallery\backend\env\Lib\site-packages\django\core\files\storage\filesystem.py", line 81, in _open
+    return File(open(self.path(name), mode))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\lenovo\\Documents\\ujikom_gallery\\backend\\gallery\\media\\pages\\edited-21\\images\\e72a69761f71ac5a11204cb661b79908.jpg'
+ERROR 2024-11-06 17:40:31,911 basehttp "GET /api/contentblocks/ HTTP/1.1" 500 125830
